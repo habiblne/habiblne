@@ -77,17 +77,14 @@ My objective is to become a well-rounded web developer by:
 ---
 
 ## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=habiballahlaggoune&show_icons=true&count_private=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-</p>
+✔ Regular practice through academic and personal projects  
+✔ Focus on backend learning and problem-solving  
+✔ Continuous improvement and clean code habits
 
 ---
 
 ## 📫 Contact
 📧 Email: **habiballahlaggoune@gmail.com**  
 💻 GitHub: https://github.com/habiblne
+
 💬 Discord: habib_lne
