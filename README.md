@@ -12,7 +12,6 @@
 🔧 Currently improving frontend skills and learning backend technologies  
 🔐 Interested in **web security** and modern development best practices  
 🚀 Actively seeking an **internship or junior opportunity** to gain real-world experience  
-<img src="https://raw.githubusercontent.com/ryo-ma/github-profile-README-generator/main/src/images/wave.svg" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
