@@ -96,5 +96,4 @@ My objective is to become a well-rounded web developer by:
 ## 📫 Contact
 📧 Email: **habiballahlaggoune@gmail.com**  
 💻 GitHub: https://github.com/habiblne
-
 💬 Discord: habib_lne
