@@ -5,10 +5,6 @@
 
 # 👋 Hi, I’m Habib Allah Laggoune
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/coder.gif" width="400" />
-</p>
-
 ## 👤 About Me
 🎓 Computer Science student at **USTHB** (Bachelor’s – 3rd year)  
 💻 Aspiring **Web Developer** with a growing focus on backend development  
@@ -17,7 +13,7 @@
 🔐 Interested in **web security** and modern development best practices  
 🚀 Actively seeking an **internship or junior opportunity** to gain real-world experience  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ## 🎯 Learning & Career Goals
 My objective is to become a well-rounded web developer by:
@@ -26,7 +22,6 @@ My objective is to become a well-rounded web developer by:
 - Building secure, scalable, and functional web applications  
 - Gaining hands-on experience through projects and internships  
 
----
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ## 🧑‍💻 Technical Skills
@@ -42,7 +37,7 @@ My objective is to become a well-rounded web developer by:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ### 🧩 Backend & Frameworks (Learning & Practicing)
 <p align="left">
@@ -53,7 +48,8 @@ My objective is to become a well-rounded web developer by:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
 
 ### 🎨 Frontend Technologies
 <p align="left">
@@ -64,7 +60,8 @@ My objective is to become a well-rounded web developer by:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
 
 ### 🔐 Systems, Security & Tools
 <p align="left">
@@ -73,7 +70,8 @@ My objective is to become a well-rounded web developer by:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
 
 ## 🎓 Education
 **Bachelor’s Degree in Computer Science — USTHB**
@@ -82,10 +80,11 @@ My objective is to become a well-rounded web developer by:
 - Computer Networks (Sockets, Protocols)
 - Software Engineering (UML, Design)
 - Introduction to Artificial Intelligence & Machine Learning
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
 ## 🚀 Featured Projects
 - 🌐 **Personal Portfolio** — HTML, CSS, JavaScript *(in progress)*
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ## 📊 GitHub Activity
 ✔ Regular practice through academic and personal projects  
