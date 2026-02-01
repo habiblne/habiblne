@@ -1,30 +1,28 @@
-👋 Hi, I’m Habib Allah Laggoune
-👤 About Me
 
-🎓 Computer Science student at USTHB (Bachelor’s – 3rd year)
+# 👋 Hi, I’m Habib Allah Laggoune
 
-🌐 I have a basic to intermediate understanding of HTML, CSS, and JavaScript
+## 👤 About Me
+🎓 Computer Science student at **USTHB** (Bachelor’s – 3rd year)  
+💻 Aspiring **Web Developer** with a growing focus on backend development  
+🌐 Solid foundation in **HTML, CSS, and JavaScript**  
+🔧 Currently improving frontend skills and learning backend technologies  
+🔐 Interested in **web security** and modern development best practices  
+🚀 Actively seeking an **internship or junior opportunity** to gain real-world experience  
 
-🔧 Currently learning backend development and improving my frontend skills
+---
 
-🔐 Interested in web security and best development practices
+## 🎯 Learning & Career Goals
+My objective is to become a well-rounded web developer by:
+- Strengthening core frontend fundamentals  
+- Learning backend technologies and RESTful APIs  
+- Building secure, scalable, and functional web applications  
+- Gaining hands-on experience through projects and internships  
 
-🚀 Looking for an internship or junior opportunity to grow my skills
+---
 
-🎯 Learning & Career Goal
+## 🧑‍💻 Technical Skills
 
-I aim to become a well-rounded web developer by:
-
-strengthening my frontend fundamentals
-
-learning backend technologies and APIs
-
-building secure and functional web applications
-
-gaining real-world experience through projects and internships
-## 🧑‍💻 Compétences Techniques
-
-### 🔤 Langages
+### 🔤 Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
@@ -34,7 +32,10 @@ gaining real-world experience through projects and internships
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
 </p>
-### 🧩 Backend & Frameworks
+
+---
+
+### 🧩 Backend & Frameworks (Learning & Practicing)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
@@ -42,7 +43,10 @@ gaining real-world experience through projects and internships
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
 </p>
-### 🎨 Frontend
+
+---
+
+### 🎨 Frontend Technologies
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
@@ -50,29 +54,40 @@ gaining real-world experience through projects and internships
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
 </p>
-### 🔐 Systèmes, Sécurité & Outils
+
+---
+
+### 🔐 Systems, Security & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 </p>
-## 🎓 Formation
-**Licence Informatique — USTHB**
-- Systèmes d’exploitation (C / Linux)
-- Bases de données & SQL
-- Réseaux (sockets, protocoles)
-- Génie logiciel (UML, conception)
-- Introduction à l’IA / ML
-## 📈 Activité GitHub
 
+---
+
+## 🎓 Education
+**Bachelor’s Degree in Computer Science — USTHB**
+- Operating Systems (C / Linux)
+- Databases & SQL
+- Computer Networks (Sockets, Protocols)
+- Software Engineering (UML, Design)
+- Introduction to Artificial Intelligence & Machine Learning
+
+---
+
+## 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trrayane&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trrayane&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
+
+---
+
 ## 📫 Contact
-- 📧 Email: habiballahlaggoune@gmail.com
-- 💻 GitHub: https://github.com/habiblne
-- 💬 Discord: habib_lne
+📧 Email: **habiballahlaggoune@gmail.com**  
+💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+💬 Discord: habib_lne
