@@ -85,8 +85,12 @@ My objective is to become a well-rounded web developer by:
 ✔ Regular practice through academic and personal projects  
 ✔ Focus on backend learning and problem-solving  
 ✔ Continuous improvement and clean code habits
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habiballahlaggoune&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=habiballahlaggoune&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Habib Allah Laggoune GitHub Stats"
+  />
 </p>
 
 ---
