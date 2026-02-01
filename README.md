@@ -76,10 +76,13 @@ My objective is to become a well-rounded web developer by:
 
 ---
 
-## 📊 GitHub Activity Overview
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=habiballahlaggoune&show_icons=true&count_private=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
