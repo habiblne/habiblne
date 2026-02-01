@@ -1,3 +1,6 @@
+<p align="center">
+  <b>Computer Science Student • Aspiring Web Developer • Backend & Web Security Enthusiast</b>
+</p>
 
 # 👋 Hi, I’m Habib Allah Laggoune
 
