@@ -25,7 +25,6 @@ My objective is to become a well-rounded web developer by:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ## 🧑‍💻 Technical Skills
-
 ### 🔤 Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -91,7 +90,8 @@ My objective is to become a well-rounded web developer by:
 ✔ Focus on backend learning and problem-solving  
 ✔ Continuous improvement and clean code habits
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
 
 ## 📫 Contact
 📧 Email: **habiballahlaggoune@gmail.com**  
