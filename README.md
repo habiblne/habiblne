@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+USTHB;Aspiring+Web+Developer;Backend+%26+Web+Security+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&color=FF0000&lines=Laggoune+Habib+Allah;L3+Student+at+USTHB;Front-End+Developer" />
 </p>
-
-
-# 👋 Hi, I’m Habib Allah Laggoune
 
 ## 👤 About Me
 🎓 Computer Science student at **USTHB** (Bachelor’s – 3rd year)  
