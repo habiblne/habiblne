@@ -2,11 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+USTHB;Aspiring+Web+Developer;Backend+%26+Web+Security+Enthusiast" />
 </p>
 
+
+# 👋 Hi, I’m Habib Allah Laggoune
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/coder.gif" width="400" />
 </p>
-
-# 👋 Hi, I’m Habib Allah Laggoune
 
 ## 👤 About Me
 🎓 Computer Science student at **USTHB** (Bachelor’s – 3rd year)  
