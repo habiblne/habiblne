@@ -27,6 +27,7 @@ My objective is to become a well-rounded web developer by:
 - Gaining hands-on experience through projects and internships  
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ## 🧑‍💻 Technical Skills
 
