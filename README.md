@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Computer Science Student • Aspiring Web Developer • Backend & Web Security Enthusiast</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+USTHB;Aspiring+Web+Developer;Backend+%26+Web+Security+Enthusiast" />
 </p>
 
 # 👋 Hi, I’m Habib Allah Laggoune
@@ -85,13 +85,6 @@ My objective is to become a well-rounded web developer by:
 ✔ Regular practice through academic and personal projects  
 ✔ Focus on backend learning and problem-solving  
 ✔ Continuous improvement and clean code habits
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=habiballahlaggoune&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Habib Allah Laggoune GitHub Stats"
-  />
-</p>
 
 ---
 
