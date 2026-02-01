@@ -98,3 +98,6 @@ My objective is to become a well-rounded web developer by:
 💻 GitHub: https://github.com/habiblne
 
 💬 Discord: habib_lne
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient&text=Hi+there!&fontColor=ffffff&fontSize=40" />
+</p>
