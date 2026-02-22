@@ -76,7 +76,7 @@ My objective is to become a skilled Software Engineer by:
 ---
 
 ## 🚀 Featured Projects
-🌐 **Portfolio Website** — [Check Here](https://your-portfolio-link.com)  
+🌐 **Portfolio Website** 
 
 ---
 
@@ -84,9 +84,7 @@ My objective is to become a skilled Software Engineer by:
 ✔ Regular practice through academic and personal projects  
 ✔ Focus on full-stack development and problem-solving  
 ✔ Continuous improvement and clean code habits  
-<img src="https://raw.githubusercontent.com/habiblne/habiblne/output/snake.svg" alt="Snake animation" />
 
-###
 ---
 
 ## 📫 Contact
