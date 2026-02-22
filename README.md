@@ -1,9 +1,8 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&color=FF0000&lines=Laggoune+Habib+Allah;L3+Software+Engineering+Student;Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&color=FFFFFF&lines=Laggoune+Habib+Allah;L3+Software+Engineering+Student;Problem+Solver" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=3" />
 
 ---
 
@@ -14,19 +13,17 @@
 🚀 Currently developing full-stack skills (React & Django)  
 🌍 Looking for **freelance opportunities** and **open-source collaboration**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=3" />
 
 ---
 
 ## 🎯 Learning & Career Goals
-My objective is to become a skilled Software Engineer by:
-
 - Strengthening frontend fundamentals (React, HTML, CSS)  
 - Mastering backend technologies (Node.js, Django)  
 - Building secure, scalable, and efficient web applications  
-- Contributing to open-source projects and freelance work  
+- Contributing to open-source projects and freelance work
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=3" />
 
 ---
 
@@ -69,15 +66,17 @@ My objective is to become a skilled Software Engineer by:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=3" />
 
 ---
 
 ## 🌐 Portfolio
 Check my projects: [Portfolio Website](https://your-portfolio-link.com)  
-<img src="https://raw.githubusercontent.com/habiblne/portfolio/main/preview.png" alt="Portfolio Preview" width="600"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/habiblne/portfolio/main/preview.png" alt="Portfolio Preview" width="600"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=3" />
 
 ---
 
@@ -90,7 +89,7 @@ Check my projects: [Portfolio Website](https://your-portfolio-link.com)
 - Software Engineering (UML, Design)  
 - Introduction to Artificial Intelligence & Machine Learning  
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=3" />
 
 ---
 
