@@ -104,9 +104,10 @@ My objective is to become a skilled Software Engineer by:
   <span style="vertical-align:middle; font-size:18px;">github.com/habiblne</span>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=habiblne.habiblne&"  />
+
+<div align="center" style="margin-top:15px;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=habiblne.habiblne" alt="Visitor Badge"/>
 </div>
+
 ---
 
-###
