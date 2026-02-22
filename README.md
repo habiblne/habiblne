@@ -88,22 +88,23 @@ My objective is to become a skilled Software Engineer by:
 ---
 ## 📫 Contact
 <div align="center">
+
+  <!-- Discord -->
   <a href="https://discord.com/users/habib_lne" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
   </a>
-  <span style="vertical-align:middle; font-size:18px;">habib_lne</span>
 
+  <!-- Gmail -->
   <a href="mailto:habiballahlaggoune@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>
-  <span style="vertical-align:middle; font-size:18px;">habiballahlaggoune@gmail.com</span>
 
+  <!-- GitHub -->
   <a href="https://github.com/habiblne" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="GitHub logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub logo" />
   </a>
-  <span style="vertical-align:middle; font-size:18px;">github.com/habiblne</span>
-</div>
 
+</div>
 ---
 
 ## 👁️ Viewers
