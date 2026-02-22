@@ -86,14 +86,20 @@ My objective is to become a skilled Software Engineer by:
 ✔ Continuous improvement and clean code habits  
 
 ---
-
 ## 📫 Contact
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /> habib_lne
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /> **habiballahlaggoune@gmail.com**
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  /> https://github.com/habiblne
+<div align="center">
+  <a href="https://discord.com/users/habib_lne" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
+  </a>
+  <span style="vertical-align:middle; font-size:18px;">habib_lne</span>
+
+  <a href="mailto:habiballahlaggoune@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+  </a>
+  <span style="vertical-align:middle; font-size:18px;">habiballahlaggoune@gmail.com</span>
+
+  <a href="https://github.com/habiblne" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="GitHub logo" />
+  </a>
+  <span style="vertical-align:middle; font-size:18px;">github.com/habiblne</span>
 </div>
-###
----
-
-
