@@ -96,3 +96,7 @@ My objective is to become a skilled Software Engineer by:
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/habiblne/habiblne/output/snake.svg" alt="Snake animation" />
+
+###
