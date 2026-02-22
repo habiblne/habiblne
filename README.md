@@ -99,11 +99,6 @@ My objective is to become a skilled Software Engineer by:
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/habiblne" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub logo" />
-  </a>
-
 </div>
 ---
 
