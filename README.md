@@ -1,44 +1,93 @@
-<h1 align="center">Habib Allah Laggoune</h1>
 <p align="center">
-L3 Computer Science Student | Future Full-Stack Developer
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&color=FF0000&lines=Laggoune+Habib+Allah;L3+Software+Engineering+Student;Problem+Solver" />
 </p>
 
 ---
 
-## 👋 About Me
-Computer Science student at **USTHB**.  
-Passionate about web development and backend systems.  
-Currently building strong foundations in modern web technologies.
+## 👤 About Me
+🎓 L3 Software Engineering student at **University of Science and Technology Houari Boumédiène (USTHB)**  
+💻 Passionate about building web applications  
+🧠 Strong problem-solving mindset  
+🚀 Currently developing full-stack skills (React & Django)  
+🌍 Looking for **freelance opportunities** and **open-source collaboration**
 
 ---
 
-## 💻 Tech Stack
+## 🎯 Learning & Career Goals
+My objective is to become a skilled Software Engineer by:
 
-### Languages
-JavaScript • TypeScript • Python • Java • C • C# • PHP
-
-### Frontend
-React • Next.js • HTML • CSS • Tailwind
-
-### Backend
-Node.js • Express • Laravel • Django • .NET
-
-### Tools
-Linux • Git • Docker
+- Strengthening frontend fundamentals (React, HTML, CSS)  
+- Mastering backend technologies (Node.js, Django)  
+- Building secure, scalable, and efficient web applications  
+- Contributing to open-source projects and freelance work  
 
 ---
 
-## 🎯 Goal
-To become a skilled full-stack developer by building secure, scalable, and real-world applications.
+## 🧑‍💻 Technical Skills
+
+### 🔤 Programming Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+</p>
 
 ---
 
-## 🚀 Projects
-- Personal Portfolio (in progress)
+### 🧩 Backend & Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+</p>
+
+---
+
+### 🎨 Frontend Technologies
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</p>
+
+---
+
+### 🔐 Systems, Security & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+---
+
+## 🎓 Education
+**Bachelor’s Degree in Software Engineering — USTHB**
+
+- Operating Systems (C / Linux)  
+- Databases & SQL  
+- Computer Networks (Sockets, Protocols)  
+- Software Engineering (UML, Design)  
+- Introduction to Artificial Intelligence & Machine Learning  
+
+---
+
+## 🚀 Featured Projects
+🌐 **Portfolio Website** — [Check Here](https://your-portfolio-link.com)  
+
+---
+
+## 📊 GitHub Activity
+✔ Regular practice through academic and personal projects  
+✔ Focus on full-stack development and problem-solving  
+✔ Continuous improvement and clean code habits  
 
 ---
 
 ## 📫 Contact
-📧 habiballahlaggoune@gmail.com  
-💻 github.com/habiblne  
+📧 **habiballahlaggoune@gmail.com**  
+💻 https://github.com/habiblne  
 💬 Discord: habib_lne
