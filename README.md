@@ -76,7 +76,7 @@ My objective is to become a skilled Software Engineer by:
 ---
 
 ## 🚀 Featured Projects
-🌐 **Portfolio Website** — [Check Here](https://your-portfolio-link.com)  
+🌐 **Portfolio Website** —
 
 ---
 
