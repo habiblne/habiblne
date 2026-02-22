@@ -1,6 +1,9 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&color=FF0000&lines=Laggoune+Habib+Allah;L3+Software+Engineering+Student;Problem+Solver" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 
 ---
 
@@ -10,6 +13,8 @@
 🧠 Strong problem-solving mindset  
 🚀 Currently developing full-stack skills (React & Django)  
 🌍 Looking for **freelance opportunities** and **open-source collaboration**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 
 ---
 
@@ -21,46 +26,58 @@ My objective is to become a skilled Software Engineer by:
 - Building secure, scalable, and efficient web applications  
 - Contributing to open-source projects and freelance work  
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+
 ---
 
-## 🧑‍💻 Technical Skills
+## 🧑‍💻 Tech Stack
 
 ### 🔤 Programming Languages
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ---
 
 ### 🧩 Backend & Frameworks
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
 ---
 
 ### 🎨 Frontend Technologies
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
 
-### 🔐 Systems, Security & Tools
+### 🔐 Tools & Environment
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+
+---
+
+## 🌐 Portfolio
+Check my projects: [Portfolio Website](https://your-portfolio-link.com)  
+<img src="https://raw.githubusercontent.com/habiblne/portfolio/main/preview.png" alt="Portfolio Preview" width="600"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 
 ---
 
@@ -73,17 +90,15 @@ My objective is to become a skilled Software Engineer by:
 - Software Engineering (UML, Design)  
 - Introduction to Artificial Intelligence & Machine Learning  
 
----
-
-## 🚀 Featured Projects
-🌐 **Portfolio Website** —
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 
 ---
 
-## 📊 GitHub Activity
-✔ Regular practice through academic and personal projects  
-✔ Focus on full-stack development and problem-solving  
-✔ Continuous improvement and clean code habits  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=habiblne&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habiblne&theme=radical" />
+</p>
 
 ---
 
