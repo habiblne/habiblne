@@ -89,11 +89,6 @@ My objective is to become a skilled Software Engineer by:
 ## 📫 Contact
 <div align="center">
 
-  <a href="https://discord.com/users/habib_lne" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
-  </a>
-
-
   <a href="mailto:habiballahlaggoune@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>
