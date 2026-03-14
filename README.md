@@ -10,10 +10,6 @@
       <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="38" />
     </a>
     &nbsp;
-    <a href="https://www.tiktok.com/@habib_lne">
-      <img src="https://skillicons.dev/icons?i=tiktok&theme=dark" width="38" />
-    </a>
-    &nbsp;
     <a href="https://open.spotify.com/user/habib_lne">
       <img src="https://skillicons.dev/icons?i=spotify&theme=dark" width="38" />
     </a>
