@@ -5,11 +5,8 @@
     <a href="https://www.instagram.com/habib_lne">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    &nbsp;
-    <a href="https://www.tiktok.com/@habib_lne">
-      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-    </a>
-    &nbsp;
+        &nbsp;
+        &nbsp;
     <a href="https://open.spotify.com/user/habib_lne">
       <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
     </a>
