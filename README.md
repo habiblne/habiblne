@@ -1,17 +1,27 @@
+<div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Laggoune+HabibAllah;Software+Engineering+Student;Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Laggoune+HabibAllah;Software+Engineering+Student;Full-Stack+Developer" alt="Typing SVG" />
 
-  <p align="center">
-    <a href="mailto:habiballahlaggoune@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="38" /></a>
-    &nbsp;
-    <a href="https://www.instagram.com/habib_lne"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="38" /></a>
-    &nbsp;
-    <a href="https://www.tiktok.com/@habib_lne"><img src="https://skillicons.dev/icons?i=tiktok&theme=dark" width="38" /></a>
-    &nbsp;
-    <a href="https://github.com/habiblne"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="38" /></a>
-  </p>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=60&section=header&reversal=true&sideSection=0" width="100%" />
+<p align="center">
+  <a href="mailto:habiballahlaggoune@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="38" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/habib_lne">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="38" />
+  </a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@habib_lne">
+    <img src="https://skillicons.dev/icons?i=tiktok&theme=dark" width="38" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/habiblne">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="38" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=60&section=header&reversal=true&sideSection=0" width="100%" />
+
 </div>
 
 ---
