@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Good+morning+visitors!+☕;Good+afternoon+everyone!+☀️;Good+evening+devs!+🌙" alt="Dynamic Greeting" />
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Laggoune+HabibAllah;Software+Engineering+Student;Full-Stack+Developer" alt="Typing SVG" />
 
   <p align="center">
