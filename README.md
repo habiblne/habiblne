@@ -1,23 +1,29 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Laggoune+HabibAllah;Software+Engineering+Student;Full-Stack+Developer" alt="Typing SVG" />
 
-  <p>
+  <p align="center">
     <a href="mailto:habiballahlaggoune@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="38" />
     </a>
     &nbsp;
     <a href="https://www.instagram.com/habib_lne">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="38" />
+    </a>
+    &nbsp;
+    <a href="https://www.tiktok.com/@habib_lne">
+      <img src="https://skillicons.dev/icons?i=tiktok&theme=dark" width="38" />
     </a>
     &nbsp;
     <a href="https://open.spotify.com/user/habib_lne">
-      <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=spotify&theme=dark" width="38" />
     </a>
     &nbsp;
     <a href="https://github.com/habiblne">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="38" />
     </a>
   </p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=60&section=header&reversal=true&sideSection=0" width="100%" />
 </div>
 
 ---
@@ -63,5 +69,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=habiblne.habiblne&left_color=black&right_color=red&style=for-the-badge" />
   <br>
-  <img src="https://img.shields.io/badge/Keep_Coding-FF0000?style=social&logo=github" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=2&section=footer" width="100%" />
 </div>
