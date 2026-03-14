@@ -10,6 +10,10 @@
       <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="38" />
     </a>
     &nbsp;
+    <a href="https://www.tiktok.com/@habib_lne">
+      <img src="https://skillicons.dev/icons?i=tiktok&theme=dark" width="38" />
+    </a>
+    &nbsp;
     <a href="https://open.spotify.com/user/habib_lne">
       <img src="https://skillicons.dev/icons?i=spotify&theme=dark" width="38" />
     </a>
@@ -24,9 +28,13 @@
 
 ---
 
-### 👤 Profile
+### 👤 Profile & Achievements
 **L3 Software Engineering @ USTHB** 🎓  
 `Problem Solver` • `Freelancer` • `Full-Stack Developer`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=habiblne&theme=dracula&no-bg=true&column=4&margin-w=15&rank=SSS,SS,S,A" alt="Trophies" />
+</div>
 
 ---
 
@@ -38,9 +46,15 @@
   <img src="https://skillicons.dev/icons?i=linux,git,vscode,docker&theme=dark" />
 </div>
 
+<div align="center" style="margin-top: 15px;">
+  <img src="https://img.shields.io/badge/Logic-Critical_Thinking-black?style=flat-square&logo=brainly&logoColor=red" />
+  <img src="https://img.shields.io/badge/Methodology-Agile%20%2F%20Scrum-black?style=flat-square&logo=jira&logoColor=red" />
+  <img src="https://img.shields.io/badge/Mindset-Continuous_Learning-black?style=flat-square&logo=expertcity&logoColor=red" />
+</div>
+
 ---
 
-### 🎓 Academic Core
+### 🎓 Academic Core (USTHB)
 <div align="center">
   <img src="https://img.shields.io/badge/Systems-C%20%7C%20Linux-red?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Networks-TCP%2FIP-red?style=flat-square&logo=wireshark&logoColor=white" />
@@ -57,7 +71,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habiblne&theme=react-dark&color=FF0000&hide_border=true&area=true&bg_color=0D1117" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habiblne&theme=transparent&fire=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habiblne&theme=react-dark&color=FF0000&hide_border=true&area=true&bg_color=0D1117" width="48%" />
 </div>
 
 ---
