@@ -1,9 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+World!+🚀;Nice+to+meet+you!+🤝;Let's+build+something+great!+💻" alt="Greeting" />
-  
-  <br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Laggoune+HabibAllah;Software+Engineering+Student;Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Laggoune+HabibAllah;Software+Engineering+Student;Full-Stack+Developer" alt="Typing SVG" />
 
   <p align="center">
     <a href="mailto:habiballahlaggoune@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="38" /></a>
