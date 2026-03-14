@@ -50,16 +50,6 @@
 
 ---
 
-### 📂 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/habiblne/YOUR_REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=habiblne&repo=YOUR_REPO_NAME&theme=transparent&title_color=FF0000&text_color=ffffff&icon_color=FF0000&hide_border=true" width="45%" />
-  </a>
-  <a href="https://github.com/habiblne/YOUR_SECOND_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=habiblne&repo=YOUR_SECOND_REPO&theme=transparent&title_color=FF0000&text_color=ffffff&icon_color=FF0000&hide_border=true" width="45%" />
-  </a>
-</div>
 ### 📊 Engineering Metrics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=habiblne&show_icons=true&theme=transparent&title_color=FF0000&text_color=ffffff&icon_color=FF0000&hide_border=true" width="48%" />
