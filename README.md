@@ -3,10 +3,11 @@
 
   <p>
     <a href="mailto:habiballahlaggoune@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://github.com/habiblne">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 </div>
@@ -16,7 +17,7 @@
 ### 👤 Profile
 I am an **L3 Software Engineering student** at **USTHB**. I focus on building clean, efficient, and scalable web applications. Currently specializing in **React** and **Django**.
 
-- 💻 **Stack:** Full-stack development (MERN / Django)
+- 💻 **Stack:** Full-stack development (React / Django)
 - 🧠 **Focus:** Problem-solving and clean code
 - 🚀 **Goals:** Open-source collaboration & Freelance
 
