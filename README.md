@@ -3,53 +3,53 @@
 
   <p>
     <a href="mailto:habiballahlaggoune@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    &nbsp;&nbsp;
+    &nbsp;
     <a href="https://github.com/habiblne">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
 </div>
 
 ---
 
-### 👤 Profile
-I am an **L3 Software Engineering student** at **USTHB**. I focus on building clean, efficient, and scalable web applications. Currently specializing in **React** and **Django**.
+### 👤 À Propos
+Étudiant en **L3 Génie Logiciel** à l'**USTHB**. Passionné par le développement d'applications web modernes, je me concentre sur la création de solutions performantes, sécurisées et scalables.
 
-- 💻 **Stack:** Full-stack development (React / Django)
-- 🧠 **Focus:** Problem-solving and clean code
-- 🚀 **Goals:** Open-source collaboration & Freelance
+- 💻 **Spécialité :** Full-Stack (React & Django)
+- 🧠 **Mindset :** Problem Solver & Clean Code Enthusiast
+- 🚀 **Objectif :** Collaboration Open-Source & Freelance
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Compétences Techniques
 
-| Category | Tools & Languages |
+| Domaine | Technologies |
 | :--- | :--- |
-| **Languages** | `Python` `JavaScript` `Java` `C` `C#` `PHP` |
-| **Frontend** | `React` `HTML5` `CSS3` |
+| **Langages** | `Python` `JavaScript` `Java` `C` `C#` `PHP` |
+| **Frontend** | `React` `HTML5` `CSS3` `JavaScript` |
 | **Backend** | `Node.js` `Django` `MySQL` |
-| **Systems** | `Linux` `Git` `VS Code` |
+| **Outils** | `Linux` `Git` `Docker` `VS Code` |
 
 ---
 
-### 🎓 Academic Core (USTHB)
-* **Systems:** OS, C Programming, & Linux Environments.
-* **Data:** Database Design, SQL, & Architecture.
-* **Networks:** Protocols, Sockets, & Security.
-* **Engineering:** UML Design & Software Life Cycle.
+### 🎓 Formation (USTHB)
+* **Systèmes :** Gestion mémoire, Concurrence (C & Linux).
+* **Données :** Conception de bases de données & SQL.
+* **Réseaux :** Protocoles, Sockets et Architecture Client-Serveur.
+* **Ingénierie :** Modélisation UML & Cycle de vie logiciel.
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Statistiques GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habiblne&show_icons=true&theme=omni&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiblne&layout=compact&theme=omni&hide_border=true" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=habiblne&show_icons=true&theme=transparent&title_color=FF0000&text_color=ffffff&icon_color=FF0000&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiblne&layout=compact&theme=transparent&title_color=FF0000&text_color=ffffff&hide_border=true" width="43%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=habiblne.habiblne&left_color=black&right_color=red&style=flat-square" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=habiblne.habiblne&left_color=black&right_color=red&style=for-the-badge" />
 </div>
