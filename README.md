@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Good+morning+visitors!+☕;Good+afternoon+everyone!+☀️;Good+evening+devs!+🌙" alt="Dynamic Greeting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+World!+🚀;Nice+to+meet+you!+🤝;Let's+build+something+great!+💻" alt="Greeting" />
   
+  <br>
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Laggoune+HabibAllah;Software+Engineering+Student;Full-Stack+Developer" alt="Typing SVG" />
 
   <p align="center">
@@ -25,7 +27,7 @@
 `Problem Solver` • `Freelancer` • `Full-Stack Developer`
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habiblne&theme=217&title_color=FF0000" alt="Summary Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=habiblne&show_icons=true&theme=transparent&title_color=FF0000&text_color=ffffff&icon_color=FF0000&hide_border=true&include_all_commits=true&count_private=true" width="400" alt="Stats Card" />
 </div>
 
 ---
@@ -38,33 +40,16 @@
   <img src="https://skillicons.dev/icons?i=linux,git,vscode,docker&theme=dark" />
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://img.shields.io/badge/Logic-Critical_Thinking-black?style=flat-square&logo=brainly&logoColor=red" />
-  <img src="https://img.shields.io/badge/Methodology-Agile%20%2F%20Scrum-black?style=flat-square&logo=jira&logoColor=red" />
-  <img src="https://img.shields.io/badge/Mindset-Continuous_Learning-black?style=flat-square&logo=expertcity&logoColor=red" />
-</div>
-
----
-
-### 🎓 Academic Core (USTHB)
-<div align="center">
-  <img src="https://img.shields.io/badge/Systems-C%20%7C%20Linux-red?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networks-TCP%2FIP-red?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software-Design%20%26%20UML-red?style=flat-square&logo=uml&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data-SQL%20%26%20ML-red?style=flat-square&logo=mysql&logoColor=white" />
-</div>
-
 ---
 
 ### 📊 Engineering Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habiblne&show_icons=true&theme=transparent&title_color=FF0000&text_color=ffffff&icon_color=FF0000&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiblne&layout=compact&theme=transparent&title_color=FF0000&text_color=ffffff&hide_border=true" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiblne&layout=compact&theme=transparent&title_color=FF0000&text_color=ffffff&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habiblne&theme=transparent&fire=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habiblne&theme=transparent&fire=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habiblne&theme=react-dark&color=FF0000&hide_border=true&area=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habiblne&theme=react-dark&color=FF0000&hide_border=true&area=true&bg_color=0D1117" width="95%" />
 </div>
 
 ---
