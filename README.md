@@ -2,25 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Laggoune+HabibAllah;Software+Engineering+Student;Full-Stack+Developer" alt="Typing SVG" />
 
   <p align="center">
-    <a href="mailto:habiballahlaggoune@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="38" />
-    </a>
+    <a href="mailto:habiballahlaggoune@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="38" /></a>
     &nbsp;
-    <a href="https://www.instagram.com/habib_lne">
-      <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="38" />
-    </a>
+    <a href="https://www.instagram.com/habib_lne"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="38" /></a>
     &nbsp;
-    <a href="https://www.tiktok.com/@habib_lne">
-      <img src="https://skillicons.dev/icons?i=tiktok&theme=dark" width="38" />
-    </a>
+    <a href="https://www.tiktok.com/@habib_lne"><img src="https://skillicons.dev/icons?i=tiktok&theme=dark" width="38" /></a>
     &nbsp;
-    <a href="https://open.spotify.com/user/habib_lne">
-      <img src="https://skillicons.dev/icons?i=spotify&theme=dark" width="38" />
-    </a>
+    <a href="https://open.spotify.com/user/habib_lne"><img src="https://skillicons.dev/icons?i=spotify&theme=dark" width="38" /></a>
     &nbsp;
-    <a href="https://github.com/habiblne">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="38" />
-    </a>
+    <a href="https://github.com/habiblne"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="38" /></a>
   </p>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=60&section=header&reversal=true&sideSection=0" width="100%" />
@@ -28,12 +18,12 @@
 
 ---
 
-### 👤 Profile & Achievements
+### 👤 Profile
 **L3 Software Engineering @ USTHB** 🎓  
 `Problem Solver` • `Freelancer` • `Full-Stack Developer`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=habiblne&theme=dracula&no-bg=true&column=4&margin-w=15&rank=SSS,SS,S,A" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habiblne&theme=217&title_color=FF0000" alt="Summary Card" />
 </div>
 
 ---
@@ -79,7 +69,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=habiblne.habiblne&left_color=black&right_color=red&style=for-the-badge" />
-  <br>
-  <br>
+  <br><br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=2&section=footer" width="100%" />
 </div>
