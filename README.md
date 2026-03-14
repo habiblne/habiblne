@@ -2,12 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Laggoune+HabibAllah;Software+Engineering+Student;Full-Stack+Developer" alt="Typing SVG" />
 
   <p>
-    <a href="mailto:habiballahlaggoune@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="https://www.instagram.com/habib_lne">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     &nbsp;
-    <a href="https://github.com/habiblne">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <a href="https://www.tiktok.com/@habib_lne">
+      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://open.spotify.com/user/habib_lne">
+      <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
     </a>
   </p>
 </div>
@@ -52,8 +56,15 @@
 
 ---
 
+### 🎧 Listening To
+<div align="center">
+  <a href="https://open.spotify.com/user/habib_lne">
+    <img src="https://novatorem-spotify-readme.vercel.app/api/run?user=habib_lne&theme=dark&color=FF0000" alt="Spotify Now Playing" width="400" />
+  </a>
+</div>
+
+---
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=habiblne.habiblne&left_color=black&right_color=red&style=for-the-badge" />
-  <br>
-  <img src="https://img.shields.io/badge/Keep_Coding-FF0000?style=social&logo=github" />
 </div>
