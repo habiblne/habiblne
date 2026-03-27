@@ -42,7 +42,15 @@
 ### 📊 GitHub Analytics
 
 <table align="center">
-
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=habiblne&show_icons=true&theme=transparent&title_color=FF0000&text_color=ffffff&icon_color=FF0000&hide_border=true&count_private=true&include_all_commits=true" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiblne&layout=compact&theme=transparent&title_color=FF0000&text_color=ffffff&hide_border=true&langs_count=10" />
+    </td>
+  </tr>
+  <tr>
     <td colspan="2">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=habiblne&theme=react-dark&color=FF0000&hide_border=true&area=true&bg_color=0D1117" width="100%" />
     </td>
