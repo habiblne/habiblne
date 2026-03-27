@@ -1,17 +1,12 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Laggoune+HabibAllah;Software+Engineering+Student;Full-Stack+Developer" alt="Typing SVG" />
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="35" alt="Discord" />
-    <b style="vertical-align: middle; margin: 0 10px;">habib_lne</b>
-    <a href="mailto:habiballahlaggoune@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="35" alt="Gmail" />
-    </a>
-    <a href="https://github.com/habiblne">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="35" alt="GitHub" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="35" />
+    <b>habib_lne</b>
   </p>
+  <a href="mailto:habiballahlaggoune@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="35" /></a>
+  <a href="https://github.com/habiblne"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="35" /></a>
 </div>
 
 ---
@@ -25,11 +20,11 @@
 ### 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,c,cs,php&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,cs,php&theme=dark" />
   <br>
-  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,django,mysql&theme=dark" alt="Frameworks & DB" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,django,mysql&theme=dark" />
   <br>
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,docker,figma,postman&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,docker,figma,postman&theme=dark" />
 </div>
 
 ---
@@ -43,27 +38,29 @@
 </div>
 
 ---
+
 ### 📊 GitHub Analytics
 
-<table align="center" border="0">
+<table align="center">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=habiblne&show_icons=true&theme=transparent&title_color=FF0000&text_color=ffffff&icon_color=FF0000&hide_border=true" alt="Stats" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=habiblne&show_icons=true&theme=transparent&title_color=FF0000&text_color=ffffff&icon_color=FF0000&hide_border=true&count_private=true&include_all_commits=true" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiblne&layout=compact&theme=transparent&title_color=FF0000&text_color=ffffff&hide_border=true&langs_count=8" alt="Top Langs" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiblne&layout=compact&theme=transparent&title_color=FF0000&text_color=ffffff&hide_border=true&langs_count=10" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=habiblne&theme=react-dark&color=FF0000&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=habiblne&theme=react-dark&color=FF0000&hide_border=true&area=true&bg_color=0D1117" width="100%" />
     </td>
   </tr>
 </table>
+
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=habiblne.habiblne&left_color=black&right_color=red&style=for-the-badge" alt="Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=habiblne.habiblne&left_color=black&right_color=red&style=for-the-badge" />
   <br>
-  <img src="https://img.shields.io/badge/Keep_Coding-FF0000?style=social&logo=github" alt="Keep Coding" />
+  <img src="https://img.shields.io/badge/Keep_Coding-FF0000?style=social&logo=github" />
 </div>
