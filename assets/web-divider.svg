@@ -1,0 +1,20 @@
+﻿<svg width="1200" height="72" viewBox="0 0 1200 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="0" y1="36" x2="1200" y2="36">
+      <stop stop-color="#050A14" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#8B1020"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="0.82" stop-color="#8B1020"/>
+      <stop offset="1" stop-color="#050A14" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .dash { stroke-dasharray: 10 14; animation: move 16s linear infinite; }
+      @keyframes move { to { stroke-dashoffset: -240; } }`n      svg:hover .dash { stroke-opacity: .62; }
+    </style>
+  </defs>
+  <path d="M26 36H1174" stroke="url(#line)" stroke-width="2"/>
+  <path class="dash" d="M163 58C278 8 391 7 506 58C621 7 735 7 850 58C965 7 1064 9 1180 58" stroke="#94A3B8" stroke-opacity="0.35" stroke-width="1.4" fill="none"/>
+  <circle cx="600" cy="36" r="7" fill="#E62429"/>
+  <circle cx="600" cy="36" r="18" stroke="#38BDF8" stroke-opacity="0.28"/>
+</svg>
+
