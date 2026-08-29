@@ -1,0 +1,41 @@
+﻿<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Laggoune HabibAllah developer profile header</title>
+  <desc id="desc">A minimal dark developer profile header with subtle charcoal layers and a cyan accent line.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070A0F"/>
+      <stop offset="0.56" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(888 62) rotate(141) scale(354 161)">
+      <stop stop-color="#38BDF8" stop-opacity="0.22"/>
+      <stop offset="0.62" stop-color="#38BDF8" stop-opacity="0.04"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="296" y1="178" x2="904" y2="178" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="258" rx="23" stroke="#30363D" stroke-opacity="0.7"/>
+  <circle cx="888" cy="62" r="278" fill="url(#glow)"/>
+
+  <g opacity="0.48" stroke="#30363D" stroke-width="1">
+    <path d="M96 44H1104"/>
+    <path d="M96 216H1104"/>
+    <path d="M168 0V260"/>
+    <path d="M1032 0V260"/>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="108" fill="#F0F6FC" font-size="44" font-weight="750" letter-spacing="0.5">Laggoune HabibAllah</text>
+    <text x="600" y="148" fill="#C9D1D9" font-size="20" font-weight="500">Software Engineering Student · Full-Stack Developer</text>
+    <text x="600" y="191" fill="#8B949E" font-size="15" font-family="Fira Code, Consolas, monospace">JavaScript · Python · React · Node.js · Django · MySQL</text>
+  </g>
+
+  <path d="M296 178H904" stroke="url(#line)" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="600" cy="178" r="4" fill="#38BDF8"/>
+</svg>

@@ -1,80 +1,77 @@
 ﻿<div align="center">
-  <img src="./assets/spider-hero.svg" width="100%" alt="Spider-Man inspired navy and crimson profile banner with web details" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Laggoune HabibAllah - Full-stack developer profile header" />
 
-  <br><br>
+  <h1>Laggoune HabibAllah</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=E62429&center=true&vCenter=true&width=620&lines=Laggoune+HabibAllah;Software+Engineering+Student;Full-Stack+Developer" alt="Typing SVG" />
+  <p>
+    <strong>Software Engineering Student · Full-Stack Developer</strong>
+  </p>
 
-  <br><br>
+  <p>
+    L3 Software Engineering @ USTHB · Problem Solver · Freelancer
+  </p>
 
-  <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="35" />
-  <b>habib_lne</b>
+  <p>
+    <a href="mailto:habiballahlaggoune@gmail.com">Email</a>
+    ·
+    <a href="https://github.com/habiblne">GitHub</a>
+    ·
+    <strong>Discord:</strong> habib_lne
+  </p>
+</div>
 
-  <br><br>
+<br>
 
+## About Me
+
+I am a software engineering student focused on building practical full-stack applications, solving technical problems, and improving the systems behind reliable digital products.
+
+- L3 Software Engineering @ USTHB
+- Full-stack development across web, backend, and databases
+- Interested in systems, networks, DevOps, and data-driven software
+- Available for freelance development work
+
+<br>
+
+## Tech Stack
+
+| Languages | Frontend | Backend & Data | Tools |
+| --- | --- | --- | --- |
+| JavaScript · Python · Java · C · C# · PHP | React · HTML · CSS | Node.js · Django · MySQL | Linux · Git · VS Code · Docker · Figma · Postman |
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,cs,php,react,nodejs,django,mysql,linux,git,docker,figma&theme=dark&perline=7" alt="Technology icons" />
+</div>
+
+<br>
+
+## Currently / Focus
+
+- Strengthening full-stack architecture and clean implementation habits
+- Building projects that balance performance, usability, and maintainability
+- Deepening academic foundations in systems, networks, DevOps, and data
+
+<br>
+
+## GitHub Analytics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=habiblne&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="HabibAllah's GitHub contribution streak" />
+</div>
+
+<br>
+
+## Contact
+
+<div align="center">
   <a href="mailto:habiballahlaggoune@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="35" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=161B22" alt="Email" />
   </a>
   <a href="https://github.com/habiblne">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="35" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=161B22" alt="GitHub" />
   </a>
+  <img src="https://img.shields.io/badge/Discord-habib__lne-0D1117?style=for-the-badge&logo=discord&logoColor=38BDF8&labelColor=161B22" alt="Discord: habib_lne" />
 </div>
 
-<br>
-
-<img src="./assets/web-divider.svg" width="100%" alt="Navy red web divider" />
-
-### Profile
-
-**L3 Software Engineering @ USTHB**
-
-`Problem Solver` &bull; `Freelancer` &bull; `Full-Stack Developer`
-
-<br>
-
-### Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,c,cs,php&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,django,mysql&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,docker,figma,postman&theme=dark" />
-</div>
-
-<br>
-
-<img src="./assets/spider-sense.svg" width="100%" alt="Subtle spider sense pulse divider" />
-
-### Academic Core
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Systems-06111F?style=for-the-badge&logo=linux&logoColor=E62429&labelColor=0B1220&color=8B1020" />
-  <img src="https://img.shields.io/badge/-Networks-06111F?style=for-the-badge&logo=wireshark&logoColor=38BDF8&labelColor=0B1220&color=8B1020" />
-  <img src="https://img.shields.io/badge/-DevOps-06111F?style=for-the-badge&logo=docker&logoColor=38BDF8&labelColor=0B1220&color=8B1020" />
-  <img src="https://img.shields.io/badge/-Data-06111F?style=for-the-badge&logo=mysql&logoColor=E62429&labelColor=0B1220&color=8B1020" />
-</div>
-
-<br>
-
-### GitHub Analytics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=habiblne&theme=dark&hide_border=true&background=050A14&ring=E62429&fire=38BDF8&currStreakLabel=E62429&sideNums=F8FAFC&sideLabels=94A3B8&dates=64748B" />
-
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habiblne&theme=react-dark&color=E62429&line=38BDF8&point=F8FAFC&area=true&area_color=8B1020&hide_border=true&bg_color=050A14" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=habiblne.habiblne&left_color=06111F&right_color=E62429&style=for-the-badge" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Keep_Coding-050A14?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=8B1020" />
-</div>
-
-<br>
-
-<img src="./assets/web-footer.svg" width="100%" alt="Crimson and blue web footer accent" />
