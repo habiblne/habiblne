@@ -1,6 +1,5 @@
 <div align="center">
 
-  <!-- Typing SVG Header -->
   <a href="https://portfolio-habiblne.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Habib+Allah+Laggoune;Full-Stack+Developer+%7C+Software+Engineer;Building+web+products+%26+backend+systems;From+idea+to+deployment." alt="Typing SVG" />
   </a>
@@ -9,7 +8,6 @@
     <strong>Master 1 (M1) — Information et Visual Computing (MIV) @ USTHB • Algiers, Algeria (Open to Remote)</strong>
   </p>
 
-  <!-- Quick Action Badges -->
   <p align="center">
     <a href="https://portfolio-habiblne.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-portfolio--habiblne.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -25,11 +23,9 @@
     </a>
   </p>
 
-  <!-- Status Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Status-🟢_Available_for_Work-0D1117?style=flat-square&color=6366F1" alt="Status" />
     <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_Backend-0D1117?style=flat-square" alt="Focus" />
-    <img src="https://img.shields.io/badge/Stack-Python_%7C_TypeScript_%7C_PHP-0D1117?style=flat-square" alt="Core Languages" />
   </p>
 
 </div>
@@ -50,7 +46,6 @@ I am a **Full-Stack Developer and Software Engineer** currently pursuing a **Mas
 
 ### 🚀 Featured Projects
 
-<!-- Featured Project 1: Sonatrach PFE -->
 <table>
   <tr>
     <td width="100%">
@@ -79,10 +74,8 @@ I am a **Full-Stack Developer and Software Engineer** currently pursuing a **Mas
   </tr>
 </table>
 
-<!-- 2x2 Grid for Other Key Projects -->
 <table>
   <tr>
-    <!-- Project 1: LeadPilot AI -->
     <td width="50%" valign="top">
       <div align="center">
         <h3>⚡ LeadPilot AI</h3>
@@ -104,7 +97,6 @@ I am a **Full-Stack Developer and Software Engineer** currently pursuing a **Mas
         </a>
       </div>
     </td>
-    <!-- Project 2: AADL Appointment Platform -->
     <td width="50%" valign="top">
       <div align="center">
         <h3>🏢 AADL Appointment Management</h3>
@@ -124,7 +116,6 @@ I am a **Full-Stack Developer and Software Engineer** currently pursuing a **Mas
     </td>
   </tr>
   <tr>
-    <!-- Project 3: DataLens -->
     <td width="50%" valign="top">
       <div align="center">
         <h3>📊 DataLens</h3>
@@ -146,7 +137,6 @@ I am a **Full-Stack Developer and Software Engineer** currently pursuing a **Mas
         </a>
       </div>
     </td>
-    <!-- Project 4: BS Shop E-Commerce -->
     <td width="50%" valign="top">
       <div align="center">
         <h3>🛍️ BS Shop E-Commerce</h3>
