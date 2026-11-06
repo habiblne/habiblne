@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-**M1 Information & Visual Computing · USTHB · Algeria**
+**M1 Information & Visual Computing · USTHB**
 
 </div>
 
